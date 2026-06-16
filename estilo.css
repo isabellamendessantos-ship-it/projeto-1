@@ -2,11 +2,11 @@
 
 body{
     background-color: rgb(145, 16, 16) ;
-     color: rgb(223, 56, 56)
+     color: rgb(255, 194, 194)
 }
 
 .cabeçalho{
- background-color: rgb(161, 48, 48);
+ background-color: rgb(145, 16, 16);
  text-align: center;
 padding: 30px;
 font-family: "Nosifer", sans-serif;
