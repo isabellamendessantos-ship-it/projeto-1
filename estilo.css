@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
 
 body{
-    background-color: rgb(139, 233, 225) ;
-     color: rgb(255, 255, 255)
+    background-color: rgb(145, 16, 16) ;
+     color: rgb(0, 0, 0)
 }
 
 .cabeçalho{
- background-color: rgb(252, 150, 235);
+ background-color: rgb(233, 206, 56);
  text-align: center;
 padding: 30px;
 font-family: "Nosifer", sans-serif;
