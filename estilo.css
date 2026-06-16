@@ -4,7 +4,7 @@ body{
 }
 
 .cabeçalho{
- background-color: blue
-text-aling:center;
-
+ background-color: blue;
+ text-align: center;
+padding: 30px;
 }
