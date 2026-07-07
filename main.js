@@ -7,5 +7,6 @@ botoes.forEach(function (botao){
 
     function botaoClicado(){
         console.log("botao clicado")
+        ler texto = botao.querySelector("span")
     }
 })
