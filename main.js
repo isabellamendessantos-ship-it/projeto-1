@@ -1,1 +1,1 @@
-alert("olá mundo!")
+botoes = document.querySelectorAll("button")
